@@ -1,5 +1,5 @@
 // function([string1, string2],target id,[color1,color2])    
- consoleText(['Chúc cún', 'Valentine vui vẻ', ''], 'text',['tomato','lightblue','rebeccapurple']);
+ consoleText(['Chúc cún', 'Sinh nhật vui vẻ', ''], 'text',['tomato','lightblue','rebeccapurple']);
 
 function consoleText(words, id, colors) {
   if (colors === undefined) colors = ['#fff'];
